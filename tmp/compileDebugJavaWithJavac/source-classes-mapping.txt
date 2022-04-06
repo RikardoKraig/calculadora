@@ -1,0 +1,5 @@
+com/example/calculadoragorjeta/BuildConfig.java
+ com.example.calculadoragorjeta.BuildConfig
+com/example/calculadoragorjeta/MainActivity.java
+ com.example.calculadoragorjeta.MainActivity
+ com.example.calculadoragorjeta.MainActivity$1
